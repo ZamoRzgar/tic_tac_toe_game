@@ -1,0 +1,12 @@
+{
+      "name": "double-tic-tac-toe",
+      "version": "1.0.0",
+      "description": "Play two Tic Tac Toe games simultaneously",
+      "main": "index.html",
+      "scripts": {
+        "dev": "vite"
+      },
+      "devDependencies": {
+        "vite": "^4.2.0"
+      }
+    }
